@@ -1,0 +1,6 @@
+lock-message: "§aLe chat viens d'être lock par {user} !"
+unlock-message: "§aLe chat viens d'être unlock par {user} !"
+lock-success: "§aLe chat à bien été lock !"
+unlock-success: "§aLe chat à bien été unlock !"
+lock-chat: "§cTu ne peux pas parler, le chat est lock !"
+
