@@ -1,0 +1,9 @@
+name: vLockChat
+author: Valres
+version: 1.2.0
+api: [5.0.0]
+main: Valres\LockChat\Main
+
+permissions:
+  lock.command:
+    default: op

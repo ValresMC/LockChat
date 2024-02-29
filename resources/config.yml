@@ -1,0 +1,14 @@
+# Messages :
+lock-message: "§cThe chat has just been locked by {PLAYER} !"
+unlock-message: "§aThe chat has just been unlocked {PLAYER} !"
+no-message: "§cThe chat is locked !"
+
+# Command:
+lock-command:
+  name: "lock"
+  description: "§7Lock the chat in game !"
+  usage: "usage : /lock"
+  aliases: ["chatlock"]
+  # permission : "lock.command"
+  permission-message: "§cYou don't have the permission to lock the chat !"
+
